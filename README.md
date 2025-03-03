@@ -19,7 +19,7 @@ The LLM-Based Cisco Security Configurator is a Streamlit-powered application tha
 
 ## Setup and Usage
 1. **Clone the Repository:**  
-   `git clone https://github.com/yourusername/llm-based-cisco-security-configurator.git`  
+   `git clone https://github.com/Shady-Abdelaziz/LLM-Based-Cisco-Security-Configurator.git`  
    `cd llm-based-cisco-security-configurator`
 
 2. **Install Dependencies:**  
