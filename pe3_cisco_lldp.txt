@@ -1,0 +1,24 @@
+# pe3_cisco_lldp.txt
+-------------------------------------------------------------------------------
+Local Intf: Gi0/0
+Chassis id: 00:00:00:00:00:02
+Port id: ge-0/0/1
+Port Description: To-PE3-CISCO
+System Name: P2-JUN
+System Description: Juniper Networks MX Series
+Time remaining: 116 seconds
+System Capabilities: Router
+Management Addresses:
+    IP: 1.1.1.2
+
+Local Intf: Gi0/1
+Chassis id: 00:00:00:00:04:02
+Port id: Et1
+Port Description: To-PE3-CISCO
+System Name: CE2-ARISTA
+System Description: Arista EOS
+Time remaining: 116 seconds
+System Capabilities: Router, Bridge
+Management Addresses:
+    IP: 172.16.3.1
+
